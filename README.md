@@ -1,3 +1,3 @@
-# bigcat-vowel-sound
+# MBTI for Teacher Eng ver
 game
 index.html
